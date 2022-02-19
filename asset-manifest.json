@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/News-Express/static/css/main.b9747a7c.css",
+    "main.js": "/News-Express/static/js/main.bbc34346.js",
+    "static/js/787.d3befce1.chunk.js": "/News-Express/static/js/787.d3befce1.chunk.js",
+    "index.html": "/News-Express/index.html",
+    "main.b9747a7c.css.map": "/News-Express/static/css/main.b9747a7c.css.map",
+    "main.bbc34346.js.map": "/News-Express/static/js/main.bbc34346.js.map",
+    "787.d3befce1.chunk.js.map": "/News-Express/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9747a7c.css",
+    "static/js/main.bbc34346.js"
+  ]
+}
