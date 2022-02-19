@@ -1,0 +1,11 @@
+.card_header {
+  display: inline;
+  color: black;
+  font-size: 12px;
+  /* border: 2px solid black; */
+  position: absolute;
+  background-color: crimson;
+  border-radius: 0px 29px 98px 0px;
+  padding: 5px 8px;
+  font-weight: 700;
+}
